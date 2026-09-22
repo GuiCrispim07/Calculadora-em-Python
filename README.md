@@ -1,4 +1,5 @@
 Aqui fica o código utilizado na calculadora em linguagem de Python
+Da uma olhada como ficou:
 
 a = 0
 b = 0
